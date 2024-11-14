@@ -2,7 +2,7 @@
 
 해당 책을 읽고 새롭게 알게 된 내용을 정리하고, 예제 코드를 업로드 하기 위한 레포지토리입니다.
 
-![](https://books.google.co.kr/books/publisher/content?id=9UgpEAAAQBAJ&hl=ko&pg=PP1&img=1&zoom=3&bul=1&sig=ACfU3U0hicUEw2LI1FDgz2mrjURxHyU--g&w=1280)
+![](/Images/Main.jpeg)
 
 ## 목차
 
